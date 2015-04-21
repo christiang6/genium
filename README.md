@@ -9,9 +9,6 @@ Hi
 
 <h1>título<h1>
 
-<h2>BY:
-  <a href="genium.co">genium</a>
-  </h2>
+<h3>BY:</h3>
+  <img src="http://genium.co/gif_genium.gif">
   
-  
-<img src="gif_genium.gif">
